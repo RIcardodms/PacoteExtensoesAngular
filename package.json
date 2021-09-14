@@ -1,0 +1,64 @@
+{
+    "name": "angular-procergs",
+    "displayName": "angular-procergs",
+    "description": "Extenções iniciais para auxiliar no desenvolvimento angular",
+    "version": "0.0.1",
+    "publisher": "Ricardo Marques",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "icon": "logo.png",
+    "galleryBanner": {
+      "color": "#030518",
+      "theme": "dark"
+    },
+    "keywords": [
+      "angular",
+      "typescript",
+      "begin",
+      "inicio",
+      "pacote",
+      "extensões"
+    ],
+    "repository": {
+      "url": "https://github.com/React-Avancado/reactavancado-extension-pack"
+    },
+    "homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
+    "bugs": {
+      "url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "alexiv.vscode-angular2-files", 
+        "Angular.ng-template", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "dbaeumer.vscode-eslint", 
+        "EditorConfig.EditorConfig", 
+        "eg2.vscode-npm-script", 
+        "esbenp.prettier-vscode", 
+        "firefox-devtools.vscode-firefox-debug", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-complete-tag", 
+        "formulahendry.auto-rename-tag", 
+        "formulahendry.dotnet", 
+        "infinity1207.angular2-switcher", 
+        "jchannon.csharpextensions", 
+        "johnpapa.angular-essentials", 
+        "johnpapa.Angular2", 
+        "johnpapa.vscode-peacock", 
+        "johnpapa.winteriscoming", 
+        "k--kato.docomment", 
+        "lehni.vscode-fix-checksums", 
+        "ms-dotnettools.csharp", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "msjsdiag.debugger-for-chrome", 
+        "msjsdiag.debugger-for-edge", 
+        "NabeelValley.easyzoom", 
+        "naumovs.color-highlight", 
+        "nrwl.angular-console", 
+        "PKief.material-icon-theme"
+    ]
+}
